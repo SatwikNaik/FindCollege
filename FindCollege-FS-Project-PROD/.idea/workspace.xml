@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5101f6d-cc19-404b-a114-e880f9176880" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindCollege-FS-Project-PROD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FindCollege-FS-Project-PROD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/College_IDs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/College_Name_ID.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/Colleges.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/CollegesPointerEmail.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/CollegesPointerName.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/CollegesPointers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/Login_Colleges.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/Login_Students.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/Marks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/Structure.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/Student_IDs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/Students.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/StudentsPointerEmail.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FS-Database/StudentsPointers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/FindCollege-FS-Project-PROD.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FindCollege_FS_Project_PROD_jar/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AddCollegeDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AddCollegeDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AddCollegeDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AddCollegeDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AdminDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AdminDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AdminDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AdminDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AdminLogin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AdminLogin$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AdminLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/AdminLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/College.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/College.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeLoginDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeLoginDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeLoginDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeLoginDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeUpdateDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeUpdateDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeUpdateDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CollegeUpdateDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/College_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/College_Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CreditDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CreditDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CreditDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CreditDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CreditsDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CreditsDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CreditsDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/CreditsDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/DeleteCollegeDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/DeleteCollegeDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/DeleteCollegeDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/DeleteCollegeDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/ExecApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/ExecApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/FS_Execute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/FS_Execute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/FindCollegeDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/FindCollegeDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/FindCollegeDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/FindCollegeDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/InitializeTextFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/InitializeTextFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/Marks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/Marks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/Marks_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/Marks_Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/PointersRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/PointersRecord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/Student_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/Student_Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserLogin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserLogin$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserMarksDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserSignUp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserSignUp$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserSignUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserSignUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserSignUpProcedureDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserSignUpProcedureDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserSignUpProcedureDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserSignUpProcedureDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserUpdateDialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserUpdateDialog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserUpdateDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/UserUpdateDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/ViewCollegesDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/ViewCollegesDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FindCollege-FS-Project-PROD/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/College.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/College.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/College_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/College_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreditDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreditDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreditsDialog.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreditsDialog.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreditsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreditsDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExecApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExecApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InitializeTextFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InitializeTextFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserLogin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1taDNR2tFUItaUZM7FQY4l2wltj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ExecApplication">
+    <configuration name="ExecApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecApplication" />
+      <module name="FindCollege-FS-Project-PROD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecApplication" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="ExecApplication" />
+      <module name="FindCollege-FS-Project-PROD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExecApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5101f6d-cc19-404b-a114-e880f9176880" name="Default Changelist" comment="" />
+      <created>1622998266117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622998266117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623000690997">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1623000690997" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1623693232111">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623693232111" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1623003067615" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1623693232109">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1623693232109" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1623003067614" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1623693232107">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1623693232107" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1623003067613" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1623693232110">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1623693232110" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1623003067614" />
+    <state x="62" y="25" width="1024" height="579" key="SettingsEditor" timestamp="1623001131055">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="62" y="25" width="1024" height="579" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1623001131055" />
+    <state x="319" y="69" key="new project wizard" timestamp="1623407944469">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="69" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1623407944469" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AdminLogin.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/College_Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
